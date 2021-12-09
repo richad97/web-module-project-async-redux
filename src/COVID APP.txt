@@ -1,0 +1,20 @@
+COVID APP
+- Show recent data by country
+- deaths
+- total cases
+- active cases
+- tested
+- recovered
+-provide list of top countries by rank
+-allow user to search for specific country
+-if country is clicked, show data on main board
+-if country is clicked, show option to go back to global
+
+state
+// load all data
+---- show something on err
+// display all data on success
+// change data on click
+---- show something on err
+// change data on search
+---- show something on err
